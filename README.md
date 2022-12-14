@@ -1,4 +1,5 @@
 # Fullstack application React+Express
+![FullStackQuote](https://user-images.githubusercontent.com/21690440/207610250-9309fbaa-f69e-4de0-9f3c-184a5ed98da2.png)
 
 This repository contains a monorep to a fullstack application build using:
  - React
